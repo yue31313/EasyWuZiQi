@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/pocketvideo/!svn/ver/728/trunk/client/android/airplayit/res/anim
+END
+push_left_out.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pocketvideo/!svn/ver/759/trunk/client/android/airplayit/res/anim/push_left_out.xml
+END
+alpha_scale_in.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pocketvideo/!svn/ver/759/trunk/client/android/airplayit/res/anim/alpha_scale_in.xml
+END
+push_right_in.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pocketvideo/!svn/ver/759/trunk/client/android/airplayit/res/anim/push_right_in.xml
+END
+push_right_out.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pocketvideo/!svn/ver/759/trunk/client/android/airplayit/res/anim/push_right_out.xml
+END
+push_up_in.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/pocketvideo/!svn/ver/759/trunk/client/android/airplayit/res/anim/push_up_in.xml
+END
+push_up_out.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pocketvideo/!svn/ver/759/trunk/client/android/airplayit/res/anim/push_up_out.xml
+END
+shrink_to_middle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/pocketvideo/!svn/ver/759/trunk/client/android/airplayit/res/anim/shrink_to_middle.xml
+END
+slide_down_out.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pocketvideo/!svn/ver/759/trunk/client/android/airplayit/res/anim/slide_down_out.xml
+END
+grow_from_middle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/pocketvideo/!svn/ver/759/trunk/client/android/airplayit/res/anim/grow_from_middle.xml
+END
+push_left_in.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pocketvideo/!svn/ver/759/trunk/client/android/airplayit/res/anim/push_left_in.xml
+END
